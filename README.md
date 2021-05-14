@@ -1,0 +1,3 @@
+- 👋 Hi, I’m [sidonaldson](https://twitter.com/sidonaldsoncode)
+- 👀 I’m interested in all things JavaScript (and yes TypeScript is JavaScript)
+- 🌱 I’m currently playing with Apollo Server 
